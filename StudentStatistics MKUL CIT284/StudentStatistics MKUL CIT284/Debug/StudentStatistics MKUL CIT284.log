@@ -1,0 +1,8 @@
+﻿  StudentStats MKUL CIT284.cpp
+c:\users\mak22\documents\bhcc fall 2019\adv cpp\studentstatistics mkul cit284\studentstatistics mkul cit284\studentstats mkul cit284.cpp(91): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+c:\users\mak22\documents\bhcc fall 2019\adv cpp\studentstatistics mkul cit284\studentstatistics mkul cit284\studentstats mkul cit284.cpp(196): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  StudentStatistics MKUL CIT284.vcxproj -> C:\Users\mak22\Documents\BHCC Fall 2019\Adv Cpp\StudentStatistics MKUL CIT284\Debug\StudentStatistics MKUL CIT284.exe

@@ -1,0 +1,180 @@
+Neville Longbottom
+	Junior
+	Liberal Arts
+	25 46 46 64 68 84 89 91 95 100 
+	Mean: 70.8
+	Median: 68
+	Mode: 46 
+	Standard Deviation: 23.9449
+
+Eleanor Shellstrop
+	Junior
+	Liberal Arts
+	17 18 33 36 37 62 64 70 85 86 
+	Mean: 50.8
+	Median: 37
+	Mode: 50.8 
+	Standard Deviation: 24.5389
+
+Donna Shellstrop
+	Freshman
+	General Science
+	25 28 37 43 70 70 73 90 94 100 
+	Mean: 63
+	Median: 70
+	Mode: 70 
+	Standard Deviation: 26.4613
+
+Hermione Granger
+	Junior
+	Liberal Arts
+	0 21 31 43 46 60 70 74 81 87 
+	Mean: 51.3
+	Median: 46
+	Mode: 51.3 
+	Standard Deviation: 26.7509
+
+"Donkey" Doug Mendoza
+	Freshman
+	Liberal Arts
+	4 9 34 42 45 57 58 76 81 86 
+	Mean: 49.2
+	Median: 45
+	Mode: 49.2 
+	Standard Deviation: 26.7985
+
+Lee Jordan
+	Senior
+	General Science
+	9 22 35 61 62 76 77 78 84 96 
+	Mean: 60
+	Median: 62
+	Mode: 60 
+	Standard Deviation: 27.2323
+
+Ginny Weasley
+	Sophomore
+	General Science
+	8 31 35 43 49 69 75 86 92 93 
+	Mean: 58.1
+	Median: 49
+	Mode: 58.1 
+	Standard Deviation: 27.6386
+
+Jason Mendoza
+	Freshman
+	General Science
+	8 14 20 24 38 49 61 74 79 92 
+	Mean: 45.9
+	Median: 38
+	Mode: 45.9 
+	Standard Deviation: 28.1334
+
+Padma Patil
+	Junior
+	Liberal Arts
+	10 16 38 58 64 65 73 87 92 94 
+	Mean: 59.7
+	Median: 64
+	Mode: 59.7 
+	Standard Deviation: 28.3586
+
+Janet Notagirl
+	Senior
+	General Science
+	10 14 17 31 41 43 72 75 79 93 
+	Mean: 47.5
+	Median: 41
+	Mode: 47.5 
+	Standard Deviation: 28.6575
+
+Derek Hofstetler
+	Freshman
+	General Science
+	13 22 22 31 64 69 73 81 84 97 
+	Mean: 55.6
+	Median: 64
+	Mode: 22 
+	Standard Deviation: 28.9765
+
+Luna Lovegood
+	Sophomore
+	Liberal Arts
+	0 7 26 38 42 56 70 76 82 86 
+	Mean: 48.3
+	Median: 42
+	Mode: 48.3 
+	Standard Deviation: 29.2166
+
+Chidi Anagonye
+	Senior
+	Liberal Arts
+	2 10 10 22 45 48 54 74 81 85 
+	Mean: 43.1
+	Median: 45
+	Mode: 10 
+	Standard Deviation: 29.358
+
+Bellatrix Lestrange
+	Senior
+	General Science
+	15 16 19 22 22 37 48 72 88 99 
+	Mean: 43.8
+	Median: 22
+	Mode: 22 
+	Standard Deviation: 30.046
+
+Ronald Weasley
+	Junior
+	Liberal Arts
+	2 14 38 50 62 62 78 82 91 96 
+	Mean: 57.5
+	Median: 62
+	Mode: 62 
+	Standard Deviation: 30.1239
+
+Michael Danson
+	Sophomore
+	Liberal Arts
+	2 6 35 39 45 51 74 81 86 92 
+	Mean: 51.1
+	Median: 45
+	Mode: 51.1 
+	Standard Deviation: 30.3264
+
+Doug Forcett
+	Senior
+	Liberal Arts
+	0 4 21 47 52 52 62 68 80 100 
+	Mean: 48.6
+	Median: 52
+	Mode: 52 
+	Standard Deviation: 30.5326
+
+Tahani Al-Jamil
+	Sophomore
+	Liberal Arts
+	7 13 15 29 46 51 73 84 93 94 
+	Mean: 50.5
+	Median: 46
+	Mode: 50.5 
+	Standard Deviation: 32.2002
+
+Hannah Abbott
+	Junior
+	General Science
+	2 11 17 34 39 41 55 90 95 98 
+	Mean: 48.2
+	Median: 39
+	Mode: 48.2 
+	Standard Deviation: 33.606
+
+Harry Potter
+	Junior
+	Liberal Arts
+	0 14 25 30 54 80 89 94 97 97 
+	Mean: 58
+	Median: 54
+	Mode: 97 
+	Standard Deviation: 36.0167
+
